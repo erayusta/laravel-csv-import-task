@@ -20,7 +20,7 @@ composer install
 ```
 3.
 ```
-ea-php80 artisan storage:link
+php artisan storage:link
 ```
 
 4.
